@@ -8,6 +8,7 @@ public class TestScript : MonoBehaviour
         int i = 0;
         i++;
         //I changed something
+        //and this
     }
 
     // Update is called once per frame
