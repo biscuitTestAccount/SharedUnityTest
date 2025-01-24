@@ -10,6 +10,7 @@ public class TestScript : MonoBehaviour
         i++;
         //I changed something
         //and this
+        //and this-chanee
     }
 
     // Update is called once per frame
