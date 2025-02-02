@@ -13,10 +13,7 @@ public class TestScript : MonoBehaviour
         int iter = 0;
         iter++;
         Debug.Log(iter);
-        //I changed something
-        //and this
-        //and this-chanee
-        //Hi there again
+
         while (iter<10)
         {
             iter++;
