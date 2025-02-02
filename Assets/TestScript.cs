@@ -12,6 +12,7 @@ public class TestScript : MonoBehaviour
         // hi there
         int iter = 0;
         iter++;
+        Debug.Log(iter);
         //I changed something
         //and this
         //and this-chanee
